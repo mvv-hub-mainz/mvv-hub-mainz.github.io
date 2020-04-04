@@ -27,4 +27,5 @@ von weiteren Quellen und Empfehlungen zu Druckeinstellungen.
 ## Schwede lang
 Nach testen verschiedener Versionen mit der Uni-Klinik Mainz haben wir eine eigene, modifizierte
 Variante des Modells "Schwede" mit einem verlängerten Visier (designet von Günter). Die Files dazu
-findest du hier: [github.com/mvv-hub-mainz/designs](https://github.com/mvv-hub-mainz/designs)
+findest du hier:
+[github.com/mvv-hub-mainz/shield-designs](https://github.com/mvv-hub-mainz/shield-designs)
