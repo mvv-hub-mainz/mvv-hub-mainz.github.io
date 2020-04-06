@@ -29,3 +29,10 @@ Nach testen verschiedener Versionen mit der Uni-Klinik Mainz haben wir eine eige
 Variante des Modells "Schwede" mit einem verlängerten Visier (designet von Günter). Die Files dazu
 findest du hier:
 [github.com/mvv-hub-mainz/shield-designs](https://github.com/mvv-hub-mainz/shield-designs)
+
+Für Folien im Format A4 die Folie an der langen Seite jeweils von beiden Seiten mit einem Locher
+für A6 (kann man in der Regel einstellen) lochen. Für Folien in anderen Größen müssen die
+Lochpositionen selbst ermittelt werden. Siehe dazu die Abbildung unten oder für eine druckbare
+Version davon [hier](doc/lochmuster.pdf).
+
+![Anleitung zum lochen der Folien](doc/lochmuster.png)
